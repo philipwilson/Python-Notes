@@ -3,7 +3,7 @@
 
 * [What is computation?]()
 * [Branching and Iteration]()
-* [String MAnipulation, Guess and Check, Approximations, Bisection]()
+* [String Manipulation, Guess and Check, Approximations, Bisection]()
 * [Decomposition, Abstractions, Functions]()
 * [Tuples, Lists, Aliasing, Mutability, Cloning]()
 * [Recursion, Dictionaries]()
