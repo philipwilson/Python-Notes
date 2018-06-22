@@ -8,11 +8,15 @@
 * [Tuples, Lists, Aliasing, Mutability, Cloning]()
 * [Recursion, Dictionaries]()
 * [Testing, Debugging, Exceptions, Assertions]()
-* [Object Oriented PRogramming]()
+* [Object Oriented Programming]()
 * [Python Classes and Inheritance]()
 * [Understanding Program Efficiency, Part 1]()
 * [Understanding Program Efficiency, Part 2]()
 * [Searching and Sorting]()
+
+* [generators]()
+* [list comprehensions]()
+* [pattern matching and regex]()
 
 * [Useful links](LINKS.md)
 
