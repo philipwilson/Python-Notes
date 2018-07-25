@@ -3,26 +3,26 @@
 
 
 ### Lecture 1
-* [Course Overview]()
-* [What is computation?]()
-* [Introduction to Python]()
-* [Objects, Expressions, Numerical Types]()
-* [Variables and Assignment]()
-* [Branching and Iteration, Boolean]()
+* [Course Overview]
+* [What is computation?]
+* [Introduction to Python]
+* [Objects, Expressions, Numerical Types]
+* [Variables and Assignment]
+* [Branching and Iteration, Boolean]
 
 
-* [String Manipulation, Guess and Check, Approximations, Bisection]()
-* [String Input, String Encoding]()
-* [Iteration]()
-* [Some Simple Numerical Programs]()
-* [For Loops]()
-* [Approximate Selection, Bisection Search]()
-* [Floating Point Values]()
+* [String Manipulation, Guess and Check, Approximations, Bisection]
+* [String Input, String Encoding]
+* [Iteration]
+* [Some Simple Numerical Programs]
+* [For Loops]
+* [Approximate Selection, Bisection Search]
+* [Floating Point Values]
 * [Newton's Method]
 
 ### Lecture 3: Functions, Scoping, and Abstraction
-* [Functions and Scoping]()
-** [Function Definitions]()
+* [Functions and Scoping]
+  * [Function Definitions]
 
 * [Decomposition, Abstractions, Functions]()
 * [Tuples, Lists, Aliasing, Mutability, Cloning]()
