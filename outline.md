@@ -77,7 +77,7 @@
   * [Abstractions and First-Class Functions]()
   * [Function Decorators]()
 
-## Section 2:  Building Abstractions with Objects
+## Section 2:  Building Abstractions with Objects (SICP 'objects', Guttag Chapter 8)
 
 ### Week 5:
 
@@ -99,7 +99,6 @@
   * [Conventional Interfaces]()
 
 ### Week 6:  Mutable Data, Some Python Collections
-
 * [Mutable Data]()
   * [Local State]()
   * [The Benefits of Non-Local Assignment]()
@@ -108,9 +107,7 @@
   * [Dictionaries]()
   * [Example: Propagating Constraints]()
 
-
 ### Week 7:  Introduction to Object Oriented Programming
-
 * [Object-Oriented Programming]()
   * [Objects and Classes]()
   * [Defining Classes]()
@@ -122,7 +119,6 @@
   * [The Role of Objects]()
 
 ### Week 8:  Implementing New Classes and Objects
-
 * [Implementing Classes and Objects]()
   * [Instances]()
   * [Classes]()
@@ -133,10 +129,9 @@
   * [Multiple Representations]()
   * [Generic Functions]()
 
-## Section 3:  Structure and Interpretation of Computer Programs
+## Section 3:  Structure and Interpretation of Computer Programs (SICP 'interpretation')
 
 ### Week 9:  Programming Languages I
-
 * [Introduction]()
   * [Programming Languages]()
 * [Functions and the Processes They Generate]()
@@ -155,7 +150,6 @@
   * [Exception Objects]()
 
 ### Week 10:  Programming Languages II
-
 * [Interpreters for Languages with Combination]()
   * [Calculator]()
   * [Parsing]()
@@ -166,11 +160,9 @@
   * [Environments]()
   * [Data as Programs]()
 
+## Section 4:  Distributed and Parallel Computing (SICP 'communication')
 
-
-## Section 4:  Distributed and Parallel Computing
 ### Week 11:  Distributed Computing
-
 * [Introduction]()
 * [Distributed Computing]()
   * [Client/Server Systems]()
@@ -179,8 +171,7 @@
   * [Message Passing]()
   * [Messages on the World Wide Web]()
 
-### Week 12:  Parallel Computing
-
+### Week 12:  Parallel Computing 
 * [Parallel Computing]()
   * [The Problem with Shared State]()
   * [Correctness in Parallel Computation]()
@@ -188,10 +179,9 @@
   * [Staying Synchronized: Condition variables]()
   * [Deadlock]()
 
-## Section 5:  Sequences and Coroutines
+## Section 5:  Sequences and Coroutines (SICP 'streams')
 
-Week 13: Sequences and Coroutines
-
+### Week 13: Sequences and Coroutines
 * [Introduction]()
 * [Implicit Sequences]()
   * [Python Iterators]()
@@ -204,22 +194,30 @@ Week 13: Sequences and Coroutines
   * [Produce, Filter, and Consume]()
   * [Multitasking]()
 
+### Week 14a: Introduction to Algorithmic Complexity (Guttag Chapter 9)
+* [Thinking about Computational Complexity]()
+* [Asymptotic Notation]()
+* [Some Important Complexity Classes]()
+  * [Constant]()
+  * [Logarithmic]()
+  * [Linear]()
+  * [Log-Linear]()
+  * [Polynomial]()
+  * [Exponential]()
 
+### Week 15: Some Simple Algorithms and Data Structures (Guttag Chapter 10)
+* [Search Algorithms]()
+* [Sorting Algorithms]()
+* [Hash Tables]()
 
 ### Orphan Topics:
 
 * [Modules]()
 * [Files]()
 
+* [Simple I/O]()
 * [Python data model and special methods]()
 * [pattern matching and regex]()
-
-### Guttag Orphans
-
-* String Manipulation, Guess and Check, Approximations, Bisection
-* String Input, String Encoding
-
-
 
 ### Some Useful Links
 * [Useful links](LINKS.md)
