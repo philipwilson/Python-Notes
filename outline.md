@@ -12,13 +12,13 @@
 ### Lecture 1:  Introduction
 * [Course Overview]()
 * [What is computation?]()
-  
+
 * [Introduction to Python]()
   * [Installing Python 3]()
   * [Interactive Sessions and REPL]()
   * [First Example]()
   * [Practical Guidance:  Errors]()
-  * [Editing Program Files]()
+  * [Editing and Running Program Files]()
 
 * [Elements of Programming]()
   * [Primitive Expressions and Statements]()
@@ -26,10 +26,17 @@
   * [Means of Abstraction - Compound elements named and manipulated as units]()
 
 * [Expressions]()
+  * [Scalar types]()
+  * [type(), Type conversions]()
+  * [Operators]()
+  * [printing]()
+
+### Lecture 2:  Expressions in more detail
+
+* [Names and the Environment]()
 * [Call Expressions]()
 * [Importing Library Functions]()
-* [Quick tour of Python Standard Library](https://docs.python.org/3/library/index.html)
-* [Names and the Environment]()
+* [Quick Look at Python Standard Library](https://docs.python.org/3/library/index.html)
 * [Evaluating Nested Expressions]()
 * [Floating Point Values]()
 * [Some Simple Numerical Programs]()
@@ -52,12 +59,11 @@
   * [Compound Statements]()
   * [Defining Functions II: Local Assignment]()
   * [Conditional Statements]()
-    * [Boolean Context, Boolean Values, Boolean Algebra]()
+    * [Boolean Context, Boolean Values, Intro Boolean Algebra]()
   * [Iteration]()
   * [Practical Guidance: Testing]()
 
 * [Specifation and Testing]()
-* [Recursion]()
 
 ### Lecture 4: Higher-Order Functions
 
@@ -73,7 +79,7 @@
 
 ## Section 2:  Building Abstractions with Objects
 
-### Lecture 5: Testing, Debugging, Exceptions, Assertions
+### Lecture 5:
 
 * [Introduction]()
   * [The Object Metaphor]()
@@ -92,6 +98,8 @@
   * [Strings]()
   * [Conventional Interfaces]()
 
+### Lecture 6:  Mutable Data, Some Python Collections
+
 * [Mutable Data]()
   * [Local State]()
   * [The Benefits of Non-Local Assignment]()
@@ -100,6 +108,8 @@
   * [Dictionaries]()
   * [Example: Propagating Constraints]()
 
+
+### Lecture 7:  Introduction to Object Oriented Programming
 
 * [Object-Oriented Programming]()
   * [Objects and Classes]()
@@ -110,7 +120,9 @@
   * [Using Inheritance]()
   * [Multiple Inheritance]()
   * [The Role of Objects]()
-  
+
+### Lecture 8:  Implementing New Classes and Objects
+
 * [Implementing Classes and Objects]()
   * [Instances]()
   * [Classes]()
@@ -122,6 +134,8 @@
   * [Generic Functions]()
 
 ## Section 3:  Structure and Interpretation of Computer Programs
+
+### Lecture 9:  Programming Languages I
 
 * [Introduction]()
   * [Programming Languages]()
@@ -139,6 +153,9 @@
   * [Sets]()
 * [Exceptions]()
   * [Exception Objects]()
+
+### Lecture 10:  Programming Languages II
+
 * [Interpreters for Languages with Combination]()
   * [Calculator]()
   * [Parsing]()
@@ -149,7 +166,10 @@
   * [Environments]()
   * [Data as Programs]()
 
+
+
 ## Section 4:  Distributed and Parallel Computing
+### Lecture 11:  Distributed Computing
 
 * [Introduction]()
 * [Distributed Computing]()
@@ -158,6 +178,9 @@
   * [Modularity]()
   * [Message Passing]()
   * [Messages on the World Wide Web]()
+
+### Lecture 12:  Parallel Computing
+
 * [Parallel Computing]()
   * [The Problem with Shared State]()
   * [Correctness in Parallel Computation]()
@@ -166,6 +189,8 @@
   * [Deadlock]()
 
 ## Section 5:  Sequences and Coroutines
+
+Lecture 13: Sequences and Coroutines
 
 * [Introduction]()
 * [Implicit Sequences]()
@@ -179,6 +204,8 @@
   * [Produce, Filter, and Consume]()
   * [Multitasking]()
 
+
+
 ### Orphan Topics:
 
 * [Modules]()
@@ -189,18 +216,8 @@
 
 ### Guttag Orphans
 
-Objects, Expressions, Numerical Types
-Variables and Assignment
-Branching and Iteration
-Boolean values and Boolean algebra
-String Manipulation, Guess and Check, Approximations, Bisection
-String Input, String Encoding
-Iteration
-Some Simple Numerical Programs
-For Loops
-Approximate Selection, Bisection Search
-Floating Point Values
-Newton's Method
+* String Manipulation, Guess and Check, Approximations, Bisection
+* String Input, String Encoding
 
 
 * [Useful links](LINKS.md)
