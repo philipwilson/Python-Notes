@@ -9,7 +9,7 @@
 
 ## Section 1:  Building Abstractions with Functions
 
-### Week 1:  Introduction
+### Lecture 1:  Introduction
 * [Course Overview]()
 * [What is computation?]()
 
@@ -31,7 +31,7 @@
   * [Operators]()
   * [printing]()
 
-### Week 2:  Expressions in more detail
+### Lecture 2:  Expressions in more detail
 
 * [Names and the Environment]()
 * [Call Expressions]()
@@ -43,7 +43,7 @@
 * [Newton's Method]()
 * [Function Diagrams]()
 
-### Week 3: Defining new Functions
+### Lecture 3: Defining new Functions
 
 * [Defining New Functions]()
 * [Environments]()
@@ -65,7 +65,7 @@
 
 * [Specifation and Testing]()
 
-### Week 4: Higher-Order Functions
+### Lecture 4: Higher-Order Functions
 
 * [Higher-Order Functions]()
   * [Functions as Arguments]()
@@ -79,7 +79,7 @@
 
 ## Section 2:  Building Abstractions with Objects (SICP 'objects', Guttag Chapter 8)
 
-### Week 5:
+### Lecture 5:
 
 * [Introduction]()
   * [The Object Metaphor]()
@@ -98,7 +98,7 @@
   * [Strings]()
   * [Conventional Interfaces]()
 
-### Week 6:  Mutable Data, Some Python Collections
+### Lecture 6:  Mutable Data, Some Python Collections
 * [Mutable Data]()
   * [Local State]()
   * [The Benefits of Non-Local Assignment]()
@@ -107,7 +107,7 @@
   * [Dictionaries]()
   * [Example: Propagating Constraints]()
 
-### Week 7:  Introduction to Object Oriented Programming
+### Lecture 7:  Introduction to Object Oriented Programming
 * [Object-Oriented Programming]()
   * [Objects and Classes]()
   * [Defining Classes]()
@@ -118,7 +118,7 @@
   * [Multiple Inheritance]()
   * [The Role of Objects]()
 
-### Week 8:  Implementing New Classes and Objects
+### Lecture 8:  Implementing New Classes and Objects
 * [Implementing Classes and Objects]()
   * [Instances]()
   * [Classes]()
@@ -131,7 +131,7 @@
 
 ## Section 3:  Structure and Interpretation of Computer Programs (SICP 'interpretation')
 
-### Week 9:  Programming Languages I
+### Lecture 9:  Programming Languages I
 * [Introduction]()
   * [Programming Languages]()
 * [Functions and the Processes They Generate]()
@@ -149,7 +149,7 @@
 * [Exceptions]()
   * [Exception Objects]()
 
-### Week 10:  Programming Languages II
+### Lecture 10 and 11:  Programming Languages II
 * [Interpreters for Languages with Combination]()
   * [Calculator]()
   * [Parsing]()
@@ -162,7 +162,7 @@
 
 ## Section 4:  Distributed and Parallel Computing (SICP 'communication')
 
-### Week 11:  Distributed Computing
+### Lecture 12:  Distributed Computing
 * [Introduction]()
 * [Distributed Computing]()
   * [Client/Server Systems]()
@@ -171,7 +171,7 @@
   * [Message Passing]()
   * [Messages on the World Wide Web]()
 
-### Week 12:  Parallel Computing 
+### Lecture 13:  Parallel Computing 
 * [Parallel Computing]()
   * [The Problem with Shared State]()
   * [Correctness in Parallel Computation]()
@@ -181,7 +181,7 @@
 
 ## Section 5:  Sequences and Coroutines (SICP 'streams')
 
-### Week 13: Sequences and Coroutines
+### Lecture 14: Sequences and Coroutines
 * [Introduction]()
 * [Implicit Sequences]()
   * [Python Iterators]()
@@ -194,7 +194,7 @@
   * [Produce, Filter, and Consume]()
   * [Multitasking]()
 
-### Week 14a: Introduction to Algorithmic Complexity (Guttag Chapter 9)
+### Lecture 15: Introduction to Algorithmic Complexity (Guttag Chapter 9)
 * [Thinking about Computational Complexity]()
 * [Asymptotic Notation]()
 * [Some Important Complexity Classes]()
@@ -205,7 +205,7 @@
   * [Polynomial]()
   * [Exponential]()
 
-### Week 15: Some Simple Algorithms and Data Structures (Guttag Chapter 10)
+### Lecture 16: Some Simple Algorithms and Data Structures (Guttag Chapter 10)
 * [Search Algorithms]()
 * [Sorting Algorithms]()
 * [Hash Tables]()
