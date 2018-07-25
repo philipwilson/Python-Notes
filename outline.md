@@ -31,22 +31,10 @@
 * [Quick tour of Python Standard Library](https://docs.python.org/3/library/index.html)
 * [Names and the Environment]()
 * [Evaluating Nested Expressions]()
-* [Function Diagrams]()
-
-### Lecture 2:  More Expressions
-
-* [Objects, Expressions, Numerical Types]()
-* [Variables and Assignment]()
-* [Branching and Iteration]()
-  * [Boolean values and Boolean algebra]()
-* [String Manipulation, Guess and Check, Approximations, Bisection]()
-* [String Input, String Encoding]()
-* [Iteration]()
-* [Some Simple Numerical Programs]()
-* [For Loops]()
-* [Approximate Selection, Bisection Search]()
 * [Floating Point Values]()
+* [Some Simple Numerical Programs]()
 * [Newton's Method]()
+* [Function Diagrams]()
 
 ### Lecture 3: Defining new Functions
 
@@ -63,7 +51,7 @@
   * [Statements]()
   * [Compound Statements]()
   * [Defining Functions II: Local Assignment]()
-  * [Conditional Statements]
+  * [Conditional Statements]()
     * [Boolean Context, Boolean Values, Boolean Algebra]()
   * [Iteration]()
   * [Practical Guidance: Testing]()
@@ -199,5 +187,23 @@
 * [Python data model and special methods]()
 * [pattern matching and regex]()
 
+### Guttag Orphans
+
+Objects, Expressions, Numerical Types
+Variables and Assignment
+Branching and Iteration
+Boolean values and Boolean algebra
+String Manipulation, Guess and Check, Approximations, Bisection
+String Input, String Encoding
+Iteration
+Some Simple Numerical Programs
+For Loops
+Approximate Selection, Bisection Search
+Floating Point Values
+Newton's Method
+
+
 * [Useful links](LINKS.md)
+
+
 
