@@ -9,7 +9,7 @@
 
 ## Section 1:  Building Abstractions with Functions
 
-### Lecture 1:  Introduction
+### Week 1:  Introduction
 * [Course Overview]()
 * [What is computation?]()
 
@@ -31,7 +31,7 @@
   * [Operators]()
   * [printing]()
 
-### Lecture 2:  Expressions in more detail
+### Week 2:  Expressions in more detail
 
 * [Names and the Environment]()
 * [Call Expressions]()
@@ -43,7 +43,7 @@
 * [Newton's Method]()
 * [Function Diagrams]()
 
-### Lecture 3: Defining new Functions
+### Week 3: Defining new Functions
 
 * [Defining New Functions]()
 * [Environments]()
@@ -65,7 +65,7 @@
 
 * [Specifation and Testing]()
 
-### Lecture 4: Higher-Order Functions
+### Week 4: Higher-Order Functions
 
 * [Higher-Order Functions]()
   * [Functions as Arguments]()
@@ -79,7 +79,7 @@
 
 ## Section 2:  Building Abstractions with Objects
 
-### Lecture 5:
+### Week 5:
 
 * [Introduction]()
   * [The Object Metaphor]()
@@ -98,7 +98,7 @@
   * [Strings]()
   * [Conventional Interfaces]()
 
-### Lecture 6:  Mutable Data, Some Python Collections
+### Week 6:  Mutable Data, Some Python Collections
 
 * [Mutable Data]()
   * [Local State]()
@@ -109,7 +109,7 @@
   * [Example: Propagating Constraints]()
 
 
-### Lecture 7:  Introduction to Object Oriented Programming
+### Week 7:  Introduction to Object Oriented Programming
 
 * [Object-Oriented Programming]()
   * [Objects and Classes]()
@@ -121,7 +121,7 @@
   * [Multiple Inheritance]()
   * [The Role of Objects]()
 
-### Lecture 8:  Implementing New Classes and Objects
+### Week 8:  Implementing New Classes and Objects
 
 * [Implementing Classes and Objects]()
   * [Instances]()
@@ -135,7 +135,7 @@
 
 ## Section 3:  Structure and Interpretation of Computer Programs
 
-### Lecture 9:  Programming Languages I
+### Week 9:  Programming Languages I
 
 * [Introduction]()
   * [Programming Languages]()
@@ -154,7 +154,7 @@
 * [Exceptions]()
   * [Exception Objects]()
 
-### Lecture 10:  Programming Languages II
+### Week 10:  Programming Languages II
 
 * [Interpreters for Languages with Combination]()
   * [Calculator]()
@@ -169,7 +169,7 @@
 
 
 ## Section 4:  Distributed and Parallel Computing
-### Lecture 11:  Distributed Computing
+### Week 11:  Distributed Computing
 
 * [Introduction]()
 * [Distributed Computing]()
@@ -179,7 +179,7 @@
   * [Message Passing]()
   * [Messages on the World Wide Web]()
 
-### Lecture 12:  Parallel Computing
+### Week 12:  Parallel Computing
 
 * [Parallel Computing]()
   * [The Problem with Shared State]()
@@ -190,7 +190,7 @@
 
 ## Section 5:  Sequences and Coroutines
 
-Lecture 13: Sequences and Coroutines
+Week 13: Sequences and Coroutines
 
 * [Introduction]()
 * [Implicit Sequences]()
