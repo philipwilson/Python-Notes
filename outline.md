@@ -208,10 +208,11 @@
   * [Polynomial]()
   * [Exponential]()
 
-### Lecture 16: Some Simple Algorithms and Data Structures (Guttag Chapter 10)
+### Lecture 16: Some Fundamental Algorithms and Data Structures (Guttag Chapter 10)
 * [Search Algorithms]()
 * [Sorting Algorithms]()
 * [Hash Tables]()
+* [Trees]()
 
 ### Orphan Topics:
 
