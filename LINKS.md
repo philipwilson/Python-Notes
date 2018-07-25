@@ -1,6 +1,9 @@
 
+### Offical Language and Library References
+* [Python 3.7.0 Reference and Tutorial](https://docs.python.org/3/)
+
 ### Some online books:
-* [SICP in Python](https://legacy.gitbook.com/book/wizardforcel/sicp-in-python/details) - Translation to Python of Ableson & Sussman's classic *Structure and Interpretation of Computer Programs*
+* [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) - Translation to Python of Ableson & Sussman's classic *Structure and Interpretation of Computer Programs*
 * [Dive Into Python 3](http://www.diveintopython3.net/)
 
 
