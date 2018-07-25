@@ -194,6 +194,9 @@
   * [Produce, Filter, and Consume]()
   * [Multitasking]()
 
+## Section 6:  Intro Algorithms and Data Structures
+
+
 ### Lecture 15: Introduction to Algorithmic Complexity (Guttag Chapter 9)
 * [Thinking about Computational Complexity]()
 * [Asymptotic Notation]()
