@@ -184,8 +184,8 @@
 * [Parallel Computing]()
   * [The Problem with Shared State]()
   * [Correctness in Parallel Computation]()
-  * [Protecting Shared State: Locks and Semaphores]
-  * [Staying Synchronized: Condition variables]
+  * [Protecting Shared State: Locks and Semaphores]()
+  * [Staying Synchronized: Condition variables]()
   * [Deadlock]()
 
 ## Section 5:  Sequences and Coroutines
